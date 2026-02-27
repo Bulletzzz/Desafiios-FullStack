@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LiveCode do Psor",
+  title: "Desafio 2 FullStack",
   description: "Aleatorio",
 };
 
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
